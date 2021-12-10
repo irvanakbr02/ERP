@@ -1,0 +1,51 @@
+ERP(konsep,istilah,maanfaat,keuntungan dan kerugian,faktor yg dipertimbangkan,
+modul ERP dan fungsinya,perbedaan ERP 1 dan 2)
+konsep erp, istilah erp, manfaat, implementasi keuntungan/kerugian,
+faktor yg dipertimbangkan saat implementasi, tahapan implementasi,
+dukungan saat implementasi, bacmarking, smart, 
+modul paket erp, sub menu, proses perkembangannya (perbedaan)
+
+Pengertian ERP : 
+ERP adalah sistem perangkat lunak yang memiliki beberapa modul dan sub modul yang gunanya untuk mengintegrasi proses bisnis agar terstruktur menjadi satu seperti pada area keuangan,sumber daya manusia,distribusi,produksi,marketing dan lain lain.
+
+Implementasi ERP :
+menginteregasikan bidang modul modul erp pada bidang bisnis seperti bidang keuangan,manufaktur distribusi produksi agar terkoordinasi dan terstruktur satu sama lain.
+
+Keuntungan :
+- Pendataan data perusahaan dapat dilakukan secara cepat dan tepat
+- Online dan Realtime
+- Menyederhanakan Proses
+- Efisiensi 
+- Database tunggal
+- Semua informasi terintegrasi di dalam satu aplikasi
+- Meningkatkan daya saing
+
+Alasan Perusahaan butuh ERP :
+Kebutuhan perubahan teknologi dan operasional perusahaan yang semakin kompleks
+Kebutuhan akan keakuratan, kecepatan, efektifitas dan efisiensi dibutuhkan pada setiap proses.
+
+Manfaat ERP pada bisnis 
+
+1. Kualitas dan efisiensi
+mengintegrasikan dan meningkatkan proses bisnis internal perusahaan yang menghasilkan peningkatan signifikan dalam kualitas dan efisiensi layanan pelanggan, produksi dan distribusi.
+2. Penurunan Biaya
+Karna terintregasi dan meningkatnya proses bisnis dalam perusahaan, maka biaya pemrosesan transaksi dan hardware, software, serta karyawan pendukung Teknologi Informasi dapat diturunkan secara signifikan .
+
+3.Pendukung keputusan
+karna sifat ERP terintegeras cepat meningkatkan kemampuan dalam mengambil keputusan secara tepat waktu pada lintas bisnis perusahaan.
+
+4.Kelincahan Perusahaan
+yang terintegrasi, dapat menghilangkan perbedaan budaya antar departemen, sehingga dapat menghilangkan dinding departemen dan fungsi berbagai proses bisnis, sistem informasi dan sumber daya informasi.
+
+5.Ekstraksi Informasi
+menghasilkan analisa dan laporan mendukung perencanaan jangka panjang yang dapat dijadikan sebagai alat pengambilan keputusan.
+
+6.Perencanaan Aktivitas
+Misalnya perencanaan pembelian barang, produksi dan cash flow, penjualan dan perencanaan biaya.
+
+Benchmarking = tolok ukur = patokan
+Merupakan teknik pengetesan dengan menggunakan suatu nilai standar. 
+
+(best practice) :
+Merupakan suatu proses mengidentifikasi praktek terbaik 
+suatu proses yang mana dikenal sebagai yang efisien efektif,terbaik di bidangnya baik dari sisi fungsi atau dalam industri terkait
